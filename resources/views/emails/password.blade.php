@@ -1,0 +1,1 @@
+Click vào link này để phục hồi tài khoản: {{ url('password/reset/'.$token) }}
